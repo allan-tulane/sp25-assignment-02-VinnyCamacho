@@ -169,5 +169,3 @@ def parens_match_dc_helper(mylist):
     else:
         return (i + k - j, l)
     ###
-    
-
